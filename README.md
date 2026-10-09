@@ -9,9 +9,9 @@ Frontend Developer specializing in React, Next.js & TypeScript. I build accessib
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**Kanban App**](https://github.com/mina-gharzi/kanban-app) · [Live](https://kanban-app-nine-red.vercel.app) | Real-time collaborative board with role-based sharing, optimistic updates, and Row Level Security | Next.js, TypeScript, Supabase, TanStack Query |
-| [**Job Board**](https://github.com/mina-gharzi/jobboard) | Full-stack job board with authentication and a PostgreSQL database | Next.js, TypeScript, Prisma, Better Auth, Zod |
-| [**Stayly**](https://github.com/mina-gharzi/Stayly) | Multi-hotel booking platform | React, TypeScript, Tailwind CSS, TanStack Query |
-| [**Admin Dashboard**](https://github.com/mina-gharzi/admin-dashboard) | E-commerce admin dashboard with role-based access control | React, TypeScript, Tailwind CSS |
+| [**Jabino**](https://github.com/mina-gharzi/jobboard) · [Live](https://jobboard-6p9y.vercel.app) | Job board with candidate and employer roles, PDF resume uploads, and server-side role and ownership checks | Next.js, TypeScript, Prisma, Better Auth |
+| [**Stayly**](https://github.com/mina-gharzi/Stayly) · [Live](https://staylybooking.netlify.app) | Hotel booking app with a full booking flow, simulated API layer, and unit and E2E tests | React, TypeScript, TanStack Query, Zustand |
+| [**Shopino Admin**](https://github.com/mina-gharzi/admin-dashboard) · [Live](https://admindashboardstate.netlify.app) | E-commerce admin dashboard with a shared five-role permission model (UI-level, simulated backend) | React, TypeScript, Zustand, TanStack Table |
 
 ## Tech I work with
 
